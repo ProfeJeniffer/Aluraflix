@@ -2,8 +2,10 @@ body {
     background-color: rgb(52, 87, 50);
     color: white;
     font-family: "Fjalla One", sans-serif;
+    margin: 0px;
 }
 
 header {
-    background-color: darkseagreen;
+    border-bottom: solid 8px rgb(20, 20, 19);
+    padding: 20px;
 }
